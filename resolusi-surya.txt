@@ -1,0 +1,3 @@
+# Resolusi yang harus dicapai
+1. harus menguasai framework laravel 
+2. harus bisa menguasai php oop dan mvc
